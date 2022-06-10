@@ -20,7 +20,7 @@ namespace CounterApp
 
                     Console.WriteLine($"Counting Up: {i}");
                 }
-            }
+            } 
             else if (optionSelected == "down")
             {
                 for(int i = numberEntered; i >= 0; i--)
